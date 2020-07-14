@@ -8,8 +8,8 @@
         'region'   => 'us-east-2',                    //configura a localizacao da database dynamodb
         'version'  => 'latest',
         'credentials' => [
-        	'key'    => 'AKIARZPTE65OFHU2SZGW',                      //chave de identificacao da database        
-        	'secret' => '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',  //senha de acesso a database
+        	'key'    => '',                      //chave de identificacao da database        
+        	'secret' => '',  //senha de acesso a database
         ],
     ]);
 
